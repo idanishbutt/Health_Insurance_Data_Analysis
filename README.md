@@ -2,7 +2,11 @@
 
 ## **Project Summary**
 
-This project focuses on analyzing health insurance data to identify trends, patterns, and insights related to insurance charges, demographics, and lifestyle factors. The analysis helps understand how factors like age, BMI, smoking habits, region, and family size influence insurance costs.
+This project focuses on analyzing health insurance data to identify trends, patterns, and insights related to insurance charges, demographics, and lifestyle factors.
+
+- Number of Rows: 1,338
+
+- Number of Columns: 13
 
 ## **Problem Statement**
 
